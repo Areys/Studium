@@ -14,5 +14,3 @@
 **Fett**
 
 ***Fett und Kursiv***
-
-**Denzel ist der coolste**
