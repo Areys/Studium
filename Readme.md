@@ -4,13 +4,6 @@
 
 * Liste
 
-| Header 1 | Header 2 |
-|-|-|
-|Ja| Nein|
-
-*Kursiv*
-
-**Fett**
 
 ***Fett und Kursiv***
 
